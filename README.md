@@ -8,7 +8,7 @@ Skills:  JS / HTML / CSS/ PHP / PYTHON / C++
 - 👯 I’m looking to collaborate on Education Projects 
 - 💬 Ask me about Web & App Development ,  
 - 📫 How to reach me: Email , Instagram or Twitter 
-- 😄 Pronouns: Codersalman 
+- 😄 Pronouns: HE
 - ⚡ Fun fact: Nothing 😄 
 
 
