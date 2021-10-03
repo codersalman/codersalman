@@ -12,7 +12,7 @@ Skills:  JS / HTML / CSS/ PHP / PYTHON / C++
 - ⚡ Fun fact: Nothing 😄 
 
 
-![](https://komarev.com/ghpvc/?codersalman)
+![](https://komarev.com/ghpvc/?codersalman&label=PROFILE+VIEWS)
 
 
 
