@@ -11,8 +11,7 @@ Skills:  JS / HTML / CSS/ PHP / PYTHON / C++
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Nothing 😄 
 
-
-![](https://komarev.com/ghpvc/?codersalman&label=PROFILE+VIEWS)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=codersalman)
 
 
 
