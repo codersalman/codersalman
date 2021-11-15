@@ -4,6 +4,6 @@
   uses: Platane/snk@v0.0.18
   with:
     # github user name
-    github_user_name: 
+    github_user_name: codersalman
     # path of the generated gif
     gif_out_path: # optional, default is ./github-contribution-grid-snake.gif
