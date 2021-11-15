@@ -20,7 +20,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 <hr /> 
 
 - 🌱 I’m currently learning Computer Science  & Flutter 
-- 👯 I’m looking to collaborate on Education Projects 
+- 👯 I’m looking to collaborate on opensource and educational Projects 
 - 💬 Ask me about Web & App Dev , Opensource , Technology
 - 📫 How to reach me: Email , Instagram , Twitter / meet@codersalman.me
 - 😄 Pronouns: HE
