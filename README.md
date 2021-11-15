@@ -1,4 +1,24 @@
-### Hi there 👋, my name is Salman 
+## Hey! I'm Khushboo Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![GitHub codersalman](https://img.shields.io/github/followers/codersalman?label=follow&style=social)](https://github.com/codersalman)
+[![Linkedin: Salman Shaikh](https://img.shields.io/badge/-Salman%20Shaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsalmanshaikh/)](https://www.linkedin.com/in/devsalmanshaikh/)
+[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/Salman_8778?style=social)](https://twitter.com/Salman_8778)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=codersalman&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://medium.com/@khushboo-verma)](https://medium.com/Salman_8778)
+
+  
+I develop software, build technical communities, create content and love meeting new people!
+
+
+[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersalman&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/codersalman/github-readme-stats)
+
+
+👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
+
+<a href="https://www.buymeacoffee.com/salmanshaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
+
+
+<!-- ### Hi there 👋, my name is Salman 
 #### I am a Computer Science Student
 I am Salman, a Computer Science Student a part-time web & app developer. I have rich experience in android apps, website design, and building and customization, also I am good at SEO Keyword Research & WordPress Site Designing also I am a Robotics,IoT & Embedded System Developer 
 
@@ -12,3 +32,4 @@ Skills:  JS / HTML / CSS/ PHP / PYTHON / C++ / Dart
 - ⚡ Fun fact: Nothing 😄 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=codersalman)
+-->
