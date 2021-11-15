@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@Codersalman-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://hashnode.com/@Codersalman)](https://hashnode.com/@Codersalman)
 
   
-I develop Apps & Softwears, build technical communities, opensource projects, create content and love meeting new people!
+I develop Apps & Softwears, build technical communities, opensource projects, create tech content and love meeting new people & communities!
 
 
 
