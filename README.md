@@ -7,9 +7,8 @@
 [![Medium Badge](https://img.shields.io/badge/-@Codersalman-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://hashnode.com/@Codersalman)](https://hashnode.com/@Codersalman)
 
   
-I develop Apps & Softwears, build technical communities, open source contributer , create content and love meeting new people!
+I develop Apps & Softwears, build technical communities, opensource projects, create content and love meeting new people!
 
-My Skills:  JS / HTML / CSS/ PHP / PYTHON / C++ / Dart
 
 
 [![Codersalman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersalman&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/codersalman/github-readme-stats)
@@ -18,6 +17,7 @@ My Skills:  JS / HTML / CSS/ PHP / PYTHON / C++ / Dart
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
 
 <a href="https://www.buymeacoffee.com/salmanshaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
+<hr /> 
 
 - 🌱 I’m currently learning Computer Science  & Flutter 
 - 👯 I’m looking to collaborate on Education Projects 
@@ -25,13 +25,28 @@ My Skills:  JS / HTML / CSS/ PHP / PYTHON / C++ / Dart
 - 📫 How to reach me: Email , Instagram , Twitter / meet@codersalman.me
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Nothing 😄 
+<hr />
 
 
+### Tools &amp; technologies
+
+<p align="center">
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/dart.svg" alt="" ><span class="hidden capitalize lg:inline">Dart</span>
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/arduino.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Arduino</span>
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/html.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">HTML</span>
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/figma.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Figma</span>
+<img  align="center"src="https://peerlist-media.s3.amazonaws.com/tool_icons/php.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">PHP</span>
+<img  align="center"src="https://peerlist-media.s3.amazonaws.com/tool_icons/firebase.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Firebase</span>
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/google_cloud.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Google Cloud</span>
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/flutter.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Flutter</span>
+<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/css.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">CSS</span>
+
+</p>
+
+<hr />
 <p align="center">
   <img src="https://github.com/codersalman/codersalman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-
 
 <!-- ### Hi there 👋, my name is Salman 
 #### I am a Computer Science Student
