@@ -11,5 +11,6 @@
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
-
+- [HTML PAGE IN 30 SECONDS #shorts #coding](https://www.youtube.com/watch?v=XvsOv_iRkBI)
+- [👋Hello Guys, Coder Salman is here 🚀](https://www.youtube.com/watch?v=1LCjCbuz9Ro)
 <!-- YOUTUBE:END -->
