@@ -67,7 +67,6 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
 - [Who am I ? ](https://www.youtube.com/watch?v=MpizTuUpH30)
-- [HTML PAGE IN 30 SECONDS #shorts #coding](https://www.youtube.com/watch?v=XvsOv_iRkBI)
 - [👋Hello Guys, Coder Salman is here 🚀](https://www.youtube.com/watch?v=1LCjCbuz9Ro)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/CoderSalman)
