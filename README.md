@@ -43,11 +43,31 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 </p>
 
-<hr />
+
+<hr>
 <p align="center">
   <img src="https://github.com/codersalman/codersalman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+<hr>
+<table align="center"><tr><td valign="top" width="50%">
+
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://ayushirawat.com/)
+</td>
+<td valign="top" width="50%">
+
+### My Latest YouTube Videos 🌱
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+</td>
+  
+  
 <!-- ### Hi there 👋, my name is Salman 
 #### I am a Computer Science Student
 I am Salman, a Computer Science Student a part-time web & app developer. I have rich experience in android apps, website design, and building and customization, also I am good at SEO Keyword Research & WordPress Site Designing also I am a Robotics,IoT & Embedded System Developer 
