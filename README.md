@@ -60,7 +60,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - [How to install Apache and MySQL Server &lpar;LAMP STACK &rpar; on Ubuntu 20.04 LTS Linux Distribution](https://thetechtopics.com/web-develpment/how-to-install-apache-and-mysql-server-lamp-stack-on-ubuntu-20-04-lts-linux-distribution/)
 - [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://blog.codersalman.me/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://ayushirawat.com/)
+➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
 <td valign="top" width="50%">
 
@@ -69,7 +69,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - [HTML PAGE IN 30 SECONDS #shorts #coding](https://www.youtube.com/watch?v=XvsOv_iRkBI)
 - [👋Hello Guys, Coder Salman is here 🚀](https://www.youtube.com/watch?v=1LCjCbuz9Ro)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+➡️ [more videos...](https://www.youtube.com/c/CoderSalman)
 </td>
   
   
