@@ -50,7 +50,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 </p>
 
 <hr>
-<table align="center"><tr><td valign="top" width="50%">
+<table align="center"><tr ><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
