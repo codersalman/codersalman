@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          commit_message: "test message"
+          commit_message: "Blog Posts Updated"
           committer_username:  "blog-bot"
           readme_path: 'README.md, readme2.md'
           committer_email: "sas8888salman@gmail.com"
