@@ -14,7 +14,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 [![Codersalman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersalman&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/codersalman/github-readme-stats)
 
 
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
+👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/salmanshaikh) and add to my knowledge! 
 
 <a href="https://www.buymeacoffee.com/salmanshaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
 <hr /> 
