@@ -9,7 +9,7 @@
   
 I develop Apps & Softwears, build technical communities, opensource projects, create tech content and love meeting new people & communities!
 
-
+![animation_500_kxvq0uqv](https://user-images.githubusercontent.com/83803180/147849224-282fe25f-4c46-4031-9154-16849e202869.gif)
 
 [![Codersalman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersalman&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/codersalman/github-readme-stats)
 
