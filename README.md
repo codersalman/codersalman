@@ -6,10 +6,10 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=codersalman&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Codersalman-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://hashnode.com/@Codersalman)](https://hashnode.com/@Codersalman)
 
-  
+![You're free to be different](https://user-images.githubusercontent.com/83803180/148342368-51607678-27a7-44a9-ab22-30e3c189e415.png)
+
 I develop Apps & Softwears, build technical communities, opensource projects, create tech content and love meeting new people & communities!
 
-![animation_500_kxvq0uqv](https://user-images.githubusercontent.com/83803180/147849224-282fe25f-4c46-4031-9154-16849e202869.gif)
 
 [![Codersalman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersalman&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/codersalman/github-readme-stats)
 
