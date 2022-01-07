@@ -54,11 +54,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [What is Machine Learning?](https://thetechtopics.com/data-science/what-is-machine-learning/)
 - [Must Have Blogging Tools for WordPress](https://thetechtopics.com/blogging/must-have-blogging-tools-for-wordpress/)
 - [Deploy to Gatsby Cloud and get free swag #Deploy4Swag](https://thetechtopics.com/swags-%f0%9f%93%a6/deploy-to-gatsby-cloud-and-get-free-swag-deploy4swag/)
 - [Learn to Earn Challenge Google Cloud](https://thetechtopics.com/google/learn-to-earn-challenge-google-cloud/)
 - [Apply for a Software Engineering Intern BS – Summer 2022 B Careers at Google](https://thetechtopics.com/google/apply-for-a-software-engineering-intern-bs-summer-2022-b-careers-at-google/)
-- [Make HTML Websites Responsive](https://blog.codersalman.me/make-html-websites-responsive)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
