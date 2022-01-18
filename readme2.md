@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Git vs Github-What is Git &amp; Github?](https://thetechtopics.com/web-develpment/git-vs-github-what-is-git-github/)
 - [How WordPress Database is Structured ?](https://thetechtopics.com/blogging/wordpress/how-wordpress-database-is-structured/)
 - [Data Visualization – Basic Things To Know](https://thetechtopics.com/data-science/data-visualization-basic-things-to-know/)
 - [What is Machine Learning?](https://thetechtopics.com/data-science/what-is-machine-learning/)
 - [Must Have Blogging Tools for WordPress](https://thetechtopics.com/blogging/must-have-blogging-tools-for-wordpress/)
-- [Deploy to Gatsby Cloud and get free swag #Deploy4Swag](https://thetechtopics.com/swags-%f0%9f%93%a6/deploy-to-gatsby-cloud-and-get-free-swag-deploy4swag/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
