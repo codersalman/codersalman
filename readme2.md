@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Everything you need to know about email marketing](https://thetechtopics.com/blogging/everything-you-need-to-know-about-email-marketing/)
 - [Apply for GitHub Campus Program 2022](https://thetechtopics.com/careers/github/apply-for-github-campus-program-2022/)
 - [Why Learn PHP for Web Development?](https://thetechtopics.com/web-develpment/why-learn-php-for-web-development/)
 - [Git vs Github-What is Git &amp; Github?](https://thetechtopics.com/web-develpment/git-vs-github-what-is-git-github/)
 - [How WordPress Database is Structured ?](https://thetechtopics.com/blogging/wordpress/how-wordpress-database-is-structured/)
-- [Data Visualization – Basic Things To Know](https://thetechtopics.com/data-science/data-visualization-basic-things-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
