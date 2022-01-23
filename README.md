@@ -50,6 +50,16 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 </p>
 
 <hr>
+
+### My Latest Badges & Achivements 🎉 
+
+<p align="center">
+<img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt=" "width="70" ><span class="hidden capitalize lg:inline">Hacktoberfest-2021</span>
+  <img align="center"  src="https://user-images.githubusercontent.com/83803180/150681989-bbd7b24f-d72a-4299-a571-e221d0059c36.png" alt=" "width="120" ><span class="hidden capitalize lg:inline">Cloudflare Developer Challenge Winner 2021</span>
+</p>
+
+
+<hr>
 <table align="center"><tr ><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
@@ -74,6 +84,10 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 ➡️ [more videos...](https://www.youtube.com/c/CoderSalman)
 </td>
   
+
+
+
+
   
 <!-- ### Hi there 👋, my name is Salman 
 #### I am a Computer Science Student
