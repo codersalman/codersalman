@@ -2,7 +2,7 @@
 ![ THE TECH TOPICS YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjo5ZP81jG-9rlItrxNSPcQ?style=social) 
 [![GitHub codersalman](https://img.shields.io/github/followers/codersalman?label=follow&style=social)](https://github.com/codersalman)
 [![Linkedin: Salman Shaikh](https://img.shields.io/badge/-Salman%20Shaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsalmanshaikh/)](https://www.linkedin.com/in/devsalmanshaikh/)
-[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/Salman_8778?style=social)](https://twitter.com/Salman_8778)
+[![Twitter: Salman Shaikh ](https://img.shields.io/twitter/follow/Salman_8778?style=social)](https://twitter.com/Salman_8778)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=codersalman&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Codersalman-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://hashnode.com/@Codersalman)](https://hashnode.com/@Codersalman)
 
