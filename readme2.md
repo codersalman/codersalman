@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Apply for GitHub Campus Program 2022](https://blog.codersalman.me/apply-for-github-campus-program-2022)
 - [What is Cloudflare used for ?](https://thetechtopics.com/web-api-activities/what-is-cloudflare-used-for/)
 - [What is Web 3.0? “Future Of Internet”](https://thetechtopics.com/technology/what-is-web-3-0-future-of-internet/)
 - [Everything you need to know about email marketing](https://thetechtopics.com/blogging/everything-you-need-to-know-about-email-marketing/)
 - [Apply for GitHub Campus Program 2022](https://thetechtopics.com/careers/github/apply-for-github-campus-program-2022/)
-- [Why Learn PHP for Web Development?](https://thetechtopics.com/web-develpment/why-learn-php-for-web-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
