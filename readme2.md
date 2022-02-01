@@ -12,7 +12,6 @@
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
 - [Unboxing Devfest 2021 Swags  🎉  T-shirt  CoderSalman #shorts #short](https://www.youtube.com/watch?v=_R-d2t0wUFk)
-- [I Got Google Cloud Swag 📦Box Unboxing - 🎉 Learn to Earn Challenge Google Cloud ](https://www.youtube.com/watch?v=SzW-XqDf4EY)
 - [Who am I ? ](https://www.youtube.com/watch?v=MpizTuUpH30)
 - [👋Hello Guys, Coder Salman is here 🚀](https://www.youtube.com/watch?v=1LCjCbuz9Ro)
 <!-- YOUTUBE:END -->
