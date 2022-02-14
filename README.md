@@ -64,11 +64,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [What is Cloudflare used for ?](https://blog.codersalman.me/what-is-cloudflare-used-for)
 - [Becoming a Better Sales Person](https://thetechtopics.com/careers/becoming-a-better-sales-person/)
 - [Guide To Decentralized Applications &lpar;Dapps&rpar;](https://thetechtopics.com/technology/guide-to-decentralized-applicationsdapps-dapps/)
-- [Apply for GitHub Campus Program 2022](https://blog.codersalman.me/apply-for-github-campus-program-2022)
 - [What is Cloudflare used for ?](https://thetechtopics.com/web-api-activities/what-is-cloudflare-used-for/)
+- [What is Web 3.0? “Future Of Internet”](https://thetechtopics.com/technology/what-is-web-3-0-future-of-internet/)
+- [Everything you need to know about email marketing](https://thetechtopics.com/blogging/everything-you-need-to-know-about-email-marketing/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
