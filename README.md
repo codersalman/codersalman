@@ -64,7 +64,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Twitter Auto Post Test](https://thetechtopics.com/uncategorized/twitter-auto-post-test/)
+- [Twitter Auto POst demo](https://thetechtopics.com/uncategorized/twitter-auto-post-demo/)
 - [Deploy to Gatsby Cloud and get free swag](https://blog.codersalman.me/deploy-to-gatsby-cloud-and-get-free-swag)
 - [What is Ai and how does it work?](https://thetechtopics.com/technology/what-is-ai-and-how-does-it-work/)
 - [What is Cloudflare used for ?](https://blog.codersalman.me/what-is-cloudflare-used-for)
