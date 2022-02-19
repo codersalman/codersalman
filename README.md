@@ -64,11 +64,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Test For Telegram Auto post](https://thetechtopics.com/uncategorized/test-for-telegram-auto-post/)
 - [Deploy to Gatsby Cloud and get free swag](https://blog.codersalman.me/deploy-to-gatsby-cloud-and-get-free-swag)
 - [What is Ai and how does it work?](https://thetechtopics.com/technology/what-is-ai-and-how-does-it-work/)
 - [What is Cloudflare used for ?](https://blog.codersalman.me/what-is-cloudflare-used-for)
 - [Becoming a Better Sales Person](https://thetechtopics.com/careers/becoming-a-better-sales-person/)
-- [Guide To Decentralized Applications &lpar;Dapps&rpar;](https://thetechtopics.com/technology/guide-to-decentralized-applicationsdapps-dapps/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
