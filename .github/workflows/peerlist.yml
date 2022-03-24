@@ -1,0 +1,2 @@
+- name: peerlist-profile-action
+  uses: anuraghazra/peerlist-profile-action@v1.0.0
