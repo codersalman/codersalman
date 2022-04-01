@@ -7,6 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@Codersalman-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://hashnode.com/@Codersalman)](https://hashnode.com/@Codersalman)
 
 ![You're free to be different](https://user-images.githubusercontent.com/83803180/148342368-51607678-27a7-44a9-ab22-30e3c189e415.png)
+[![](./images/peerlist-profile.png)](https://peerlist.io/codersalman)
 
 I develop Apps & Softwears, build technical communities, opensource projects, create tech content and love meeting new people & communities!
 
