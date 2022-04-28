@@ -14,5 +14,4 @@
 - [Hacktoberfest Swags 🥳🎉📦 Unboxing 2021#hacktoberfest #shorts](https://www.youtube.com/watch?v=qo7DNpeapMI)
 - [Unboxing Cloudflaer Developer Challenge Swag Box 🎉🎉📦](https://www.youtube.com/watch?v=pIVKh82vKUk)
 - [Unboxing Devfest 2021 Swags  🎉  T-shirt  CoderSalman #shorts #short](https://www.youtube.com/watch?v=_R-d2t0wUFk)
-- [👋Hello Guys, Coder Salman is here 🚀](https://www.youtube.com/watch?v=1LCjCbuz9Ro)
 <!-- YOUTUBE:END -->
