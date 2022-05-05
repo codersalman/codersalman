@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey in KaiOS](https://blog.codersalman.me/my-journey-in-kaios)
 - [Why GitHub Profile Should Awesome?](https://thetechtopics.com/careers/github/why-github-profile-should-awesome/)
 - [Overview &amp; Installation Firebase - PHP](https://blog.codersalman.me/firebase-php-overview-and-installation)
 - [GoogleCloudReady Facilitator Program 2022](https://blog.codersalman.me/googlecloudready-facilitator-program-2022)
 - [Why GitHub Profile Should Awesome ?](https://blog.codersalman.me/why-github-profile-should-awesome)
-- [Install Wine on Ubuntu 20.04 LTS – Linux Distributions](https://blog.codersalman.me/install-wine-on-ubuntu-2004-lts-linux-distributions)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
