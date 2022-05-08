@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [What is KaiOS?](https://thetechtopics.com/operating-system/kaios/what-is-kaios/)
 - [What is KaiOS?](https://blog.codersalman.me/what-is-kaios)
 - [My Journey in KaiOS](https://blog.codersalman.me/my-journey-in-kaios)
 - [Why GitHub Profile Should Awesome?](https://thetechtopics.com/careers/github/why-github-profile-should-awesome/)
 - [Overview &amp; Installation Firebase - PHP](https://blog.codersalman.me/firebase-php-overview-and-installation)
-- [GoogleCloudReady Facilitator Program 2022](https://blog.codersalman.me/googlecloudready-facilitator-program-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
