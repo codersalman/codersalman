@@ -28,6 +28,9 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - ⚡ Fun fact: Nothing 😄 
 <hr />
 
+### Events
+
+<img width="625" alt="Screenshot 2022-06-26 at 11 57 41 AM" src="https://user-images.githubusercontent.com/83803180/175802472-de896121-2b66-4fff-86a4-34b757eb23b8.png">
 
 ### Tools &amp; technologies
 
@@ -86,8 +89,6 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
   
 
 
-
-
   
 <!-- ### Hi there 👋, my name is Salman 
 #### I am a Computer Science Student
@@ -100,6 +101,7 @@ Skills:  JS / HTML / CSS/ PHP / PYTHON / C++ / Dart
 - 💬 Ask me about Web & App Development ,  
 - 📫 How to reach me: Email , Instagram , Twitter / meet@codersalman.me
 - 😄 Pronouns: HE
+
 - ⚡ Fun fact: Nothing 😄 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=codersalman)
