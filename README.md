@@ -70,11 +70,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Personal Branding for web Developers](https://thetechtopics.com/careers/personal-branding-for-web-developers/)
 - [My Journey in KaiOS](https://thetechtopics.com/operating-system/kaios/my-journey-in-kaios/)
 - [What is KaiOS?](https://thetechtopics.com/operating-system/kaios/what-is-kaios/)
 - [What is KaiOS?](https://blog.codersalman.me/what-is-kaios)
 - [My Journey in KaiOS](https://blog.codersalman.me/my-journey-in-kaios)
-- [Why GitHub Profile Should Awesome?](https://thetechtopics.com/careers/github/why-github-profile-should-awesome/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
