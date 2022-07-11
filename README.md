@@ -81,11 +81,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [Image in Website ](https://www.youtube.com/watch?v=g2bmNTShT-Q)
 - [Headings HTML ](https://www.youtube.com/watch?v=YCgJBxAvboA)
 - [Freelancing as a “Web Developer”   TECH TALK  Hosted By codersalman ](https://www.youtube.com/watch?v=K0W59SFiIHg)
 - [CodeStix :&rpar;  code until you Stuck](https://www.youtube.com/watch?v=5UlLA6DbcxQ)
 - [Hacktoberfest Swags 🥳🎉📦 Unboxing 2021#hacktoberfest #shorts](https://www.youtube.com/watch?v=qo7DNpeapMI)
-- [Unboxing Cloudflaer Developer Challenge Swag Box 🎉🎉📦](https://www.youtube.com/watch?v=pIVKh82vKUk)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/CoderSalman)
 </td>
