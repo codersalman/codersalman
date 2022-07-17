@@ -26,6 +26,45 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Nothing 😄 
 <hr />
+<table align="center"><tr ><td valign="top" width="20%">
+
+### Technologies 🧑‍💻
+
+<li>HTML, CSS & Javascript</li>
+<li>PHP</li> 
+<li> MySQL</li>
+<li> Firebase</li>
+<li>React</li>  
+<li> KaiOS (React) HTML</li>  
+
+
+</td>
+
+<td valign="top" width="20%">
+
+### Tools 🛠💻
+<li>ATOM (Github) </li>
+<li>VS CODE / Sublime Text</li> 
+<li>Jetbrains PHP STORM / Webstorm</li>
+<li>Postman</li>
+<li> Firebase CLI</li>
+<li>Android Studio</li>  
+<li>Bootstrap  Studio</li>  
+<li> KaiOSart / WEBIDE Moz</li>  
+
+</td>
+<td valign="top" width="20%">
+
+### My Latest Badges & Achivements 🎉 
+
+<p align="center">
+<li><span class="hidden capitalize lg:inline">Hacktoberfest-2021</span>
+ </li><li><span class="hidden capitalize lg:inline">Cloudflare Developer Challenge Winner 2021</span></li>
+  </li><li><span class="hidden capitalize lg:inline">Campus SuperHero 🦸🏻‍♂️ at Coding Blocks</span></li>
+</p>
+</td>
+<tr>
+</table>
 
 ### Events
 
