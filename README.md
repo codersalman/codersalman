@@ -111,8 +111,8 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - [Personal Branding for web Developers](https://thetechtopics.com/careers/personal-branding-for-web-developers/)
 - [My Journey in KaiOS](https://thetechtopics.com/operating-system/kaios/my-journey-in-kaios/)
 - [What is KaiOS?](https://thetechtopics.com/operating-system/kaios/what-is-kaios/)
-- [What is KaiOS?](https://blog.codersalman.me/what-is-kaios)
-- [My Journey in KaiOS](https://blog.codersalman.me/my-journey-in-kaios)
+- [Why GitHub Profile Should Awesome?](https://thetechtopics.com/careers/github/why-github-profile-should-awesome/)
+- [Install Wine on Ubuntu 20.04 LTS – Linux Distributions](https://thetechtopics.com/operating-system/install-wine-on-ubuntu-20-04-lts-linux-distributions/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
