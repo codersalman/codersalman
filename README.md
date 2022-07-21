@@ -69,7 +69,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 ### Events
 
 <img width="625" alt="Screenshot 2022-06-26 at 11 57 41 AM" src="https://user-images.githubusercontent.com/83803180/175802472-de896121-2b66-4fff-86a4-34b757eb23b8.png">
-
+<!--
 ### Tools &amp; technologies
 
 <p align="center">
@@ -84,7 +84,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 <img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/css.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">CSS</span>
 
 </p>
-
+-->
 
 <hr>
 <p align="center">
