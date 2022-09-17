@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Configuration and Application Setup - Firebase PHP](https://blog.codersalman.me/configuration-and-application-setup-firebase-php)
+- [Configuration and Application Setup - Firebase PHP](https://codersalman.hashnode.dev/configuration-and-application-setup-firebase-php)
 - [Personal Branding for web Developers](https://thetechtopics.com/personal-branding-for-web-developers/)
 - [My Journey in KaiOS](https://thetechtopics.com/my-journey-in-kaios/)
 - [What is KaiOS?](https://thetechtopics.com/what-is-kaios/)
-- [What is KaiOS?](https://blog.codersalman.me/what-is-kaios)
+- [What is KaiOS?](https://codersalman.hashnode.dev/what-is-kaios)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
