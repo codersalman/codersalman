@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Configuration and Application Setup - Firebase PHP](https://codersalman.hashnode.dev/configuration-and-application-setup-firebase-php)
+- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist)
+- [Configuration and Application Setup - Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php)
 - [Personal Branding for web Developers](https://thetechtopics.com/personal-branding-for-web-developers/)
 - [My Journey in KaiOS](https://thetechtopics.com/my-journey-in-kaios/)
 - [What is KaiOS?](https://thetechtopics.com/what-is-kaios/)
-- [What is KaiOS?](https://codersalman.hashnode.dev/what-is-kaios)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
