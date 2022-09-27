@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Hack-R-Play: Hackathon to build, write, and connect](https://blog.codersalman.live/announcing-hack-r-play-hackathon-to-build-write-and-connect-1)
+- [An E-commerce API](https://blog.codersalman.live/an-e-commerce-api-1)
+- [Announcing Hack-R-Play: Hackathon to build, write, and connect](https://blog.codersalman.live/announcing-hack-r-play-hackathon-to-build-write-and-connect-1)
 - [An E-commerce API](https://blog.codersalman.live/an-e-commerce-api-1)
 - [The Price You Pay As A Developer For Using Open Source Software - A Tech Lawyers View](https://blog.codersalman.live/the-price-you-pay-as-a-developer-for-using-open-source-software-a-tech-lawyers-view-1)
-- [Announcing Hack-R-Play: Hackathon to build, write, and connect](https://blog.codersalman.live/announcing-hack-r-play-hackathon-to-build-write-and-connect-1)
-- [Announcing Hack-R-Play: Hackathon to build, write, and connect](https://blog.codersalman.live/announcing-hack-r-play-hackathon-to-build-write-and-connect-1)
-- [An E-commerce API](https://blog.codersalman.live/an-e-commerce-api-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
