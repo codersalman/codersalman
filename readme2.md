@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Hack-R-Play: Hackathon to build, write, and connect](https://blog.codersalman.live/announcing-hack-r-play-hackathon-to-build-write-and-connect-1)
-- [An E-commerce API](https://blog.codersalman.live/an-e-commerce-api-1)
-- [Announcing Hack-R-Play: Hackathon to build, write, and connect](https://blog.codersalman.live/announcing-hack-r-play-hackathon-to-build-write-and-connect-1)
-- [An E-commerce API](https://blog.codersalman.live/an-e-commerce-api-1)
-- [The Price You Pay As A Developer For Using Open Source Software - A Tech Lawyers View](https://blog.codersalman.live/the-price-you-pay-as-a-developer-for-using-open-source-software-a-tech-lawyers-view-1)
+- [The Power of Professional Networking: How to Leverage PeerList](https://thetechtopics.com/the-power-of-professional-networking-how-to-leverage-peerlist/)
+- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist)
+- [Configuration and Application Setup - Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php)
+- [Personal Branding for web Developers](https://thetechtopics.com/personal-branding-for-web-developers/)
+- [My Journey in KaiOS](https://thetechtopics.com/my-journey-in-kaios/)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
