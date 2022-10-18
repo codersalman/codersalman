@@ -1,6 +1,6 @@
 ![ THE TECH TOPICS YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjo5ZP81jG-9rlItrxNSPcQ?style=social) 
 [![Linkedin: Salman Shaikh](https://img.shields.io/badge/-Salman%20Shaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsalmanshaikh/)](https://www.linkedin.com/in/devsalmanshaikh/)
-[![Twitter: Salman Shaikh ](https://img.shields.io/twitter/follow/Salman_8778?style=social)](https://twitter.com/Salman_8778)
+[![Twitter: Salman Shaikh ](https://img.shields.io/twitter/follow/codersalman_?style=social)](https://twitter.com/Salman_8778)
 [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/codersalman)](https://peerlist.io/codersalman)
 ![Visitors](https://camo.githubusercontent.com/7517756d8fc02fa5812a5900408396945b60f068eb4c8170ab3eeab9eb03fb91/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d636f64657273616c6d616e266c6566745f636f6c6f723d677261792672696768745f636f6c6f723d626c7565)
 [![Medium Badge](https://img.shields.io/badge/-@Codersalman-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://hashnode.com/@Codersalman)](https://hashnode.com/@Codersalman)
