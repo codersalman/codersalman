@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist)
-- [Configuration and Application Setup - Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php)
-- [What is KaiOS?](https://blog.codersalman.live/what-is-kaios)
-- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios)
-- [Overview &amp; Installation Firebase - PHP](https://blog.codersalman.live/firebase-php-overview-and-installation)
+- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
+- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
+- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
+- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
+- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
