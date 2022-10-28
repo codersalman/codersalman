@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://blog.codersalman.live/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-1)
 - [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
+- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://blog.codersalman.live/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-1)
 - [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
-- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
-- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
-- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
+- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://blog.codersalman.live/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-1)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
