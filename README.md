@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
-- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
-- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
-- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
-- [My Journey in KaiOS](https://blog.codersalman.live/my-journey-in-kaios-1)
+- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
+- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
+- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
+- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
+- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
