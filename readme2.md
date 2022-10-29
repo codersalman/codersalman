@@ -4,7 +4,7 @@
 - [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
 - [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
 - [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
-- [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog)
+- [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
