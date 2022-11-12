@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
 - [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
 - [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
 - [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
 - [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
-- [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
