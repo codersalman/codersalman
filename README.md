@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://blog.codersalman.live/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-1)
+- [Getting Started with Git-GitHub](https://blog.codersalman.live/getting-started-with-git-github)
 - [Are we alone?](https://blog.codersalman.live/are-we-alone-1)
-- [Are we alone?](https://blog.codersalman.live/are-we-alone)
-- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
-- [What is Cloudflare used for ?](https://blog.codersalman.live/what-is-cloudflare-used-for-1)
-- [Configuration and Application Setup — Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php-1)
+- [Are we alone?](https://blog.codersalman.live/are-we-alone-1)
+- [Are we alone?](https://blog.codersalman.live/are-we-alone-1)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
