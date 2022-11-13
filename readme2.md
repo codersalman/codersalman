@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [dukes 2nd post](https://blog.codersalman.live/dukes-2nd-post)
-- [Testing new](https://blog.codersalman.live/testing-new)
-- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
-- [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
-- [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
+- [Configuration and Application Setup — Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php-1)
+- [Configuration and Application Setup — Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php-1)
+- [dukes 2nd post](https://blog.codersalman.live/dukes-2nd-post-1)
+- [Testing new](https://blog.codersalman.live/testing-new-1)
+- [dukes 2nd post](https://blog.codersalman.live/dukes-2nd-post-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
