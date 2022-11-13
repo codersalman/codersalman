@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://blog.codersalman.live/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-1)
-- [Getting Started with Git-GitHub](https://blog.codersalman.live/getting-started-with-git-github)
-- [Are we alone?](https://blog.codersalman.live/are-we-alone-1)
-- [Are we alone?](https://blog.codersalman.live/are-we-alone-1)
-- [Are we alone?](https://blog.codersalman.live/are-we-alone-1)
+- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
+- [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://blog.codersalman.live/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions-1)
+- [6 Killer Productivity Apps for Programmers](https://blog.codersalman.live/6-killer-productivity-apps-for-programmers)
+- [Frontend Rendering: SSG vs ISG vs SSR vs CSR - When to use which?](https://blog.codersalman.live/frontend-rendering-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which)
+- [Git Cheat Sheet with 40+ commands &amp; concepts](https://blog.codersalman.live/git-cheat-sheet-with-40-commands-and-concepts)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
