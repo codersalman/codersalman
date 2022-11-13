@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Are we alone?](https://blog.codersalman.live/are-we-alone-1)
+- [Are we alone?](https://blog.codersalman.live/are-we-alone)
+- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
+- [What is Cloudflare used for ?](https://blog.codersalman.live/what-is-cloudflare-used-for-1)
 - [Configuration and Application Setup — Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php-1)
-- [Configuration and Application Setup — Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php-1)
-- [dukes 2nd post](https://blog.codersalman.live/dukes-2nd-post-1)
-- [Testing new](https://blog.codersalman.live/testing-new-1)
-- [dukes 2nd post](https://blog.codersalman.live/dukes-2nd-post-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
