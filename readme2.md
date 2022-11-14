@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios-1)
+- [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios)
 - [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
 - [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://blog.codersalman.live/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions-1)
 - [6 Killer Productivity Apps for Programmers](https://blog.codersalman.live/6-killer-productivity-apps-for-programmers)
-- [Frontend Rendering: SSG vs ISG vs SSR vs CSR - When to use which?](https://blog.codersalman.live/frontend-rendering-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which)
-- [Git Cheat Sheet with 40+ commands &amp; concepts](https://blog.codersalman.live/git-cheat-sheet-with-40-commands-and-concepts)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
