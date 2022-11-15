@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios-1)
+- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://blog.codersalman.live/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-1)
 - [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
 - [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios-1)
 - [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios)
-- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
-- [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://blog.codersalman.live/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions-1)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
