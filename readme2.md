@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
 - [undefined](https://blog.codersalman.live/undefined-1)
 - [undefined](https://blog.codersalman.live/undefined-1)
 - [undefined](https://blog.codersalman.live/undefined-1)
 - [undefined](https://blog.codersalman.live/undefined)
-- [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
