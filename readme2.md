@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
-- [Async control: Promise Queues and &quot;leaky-buckets&quot; 💧💦](https://blog.codersalman.live/async-control-promise-queues-and-leaky-buckets)
-- [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios-1)
-- [Trends in Developer Jobs: A Meta Analysis of Stack Overflow Surveys](https://blog.codersalman.live/trends-in-developer-jobs-a-meta-analysis-of-stack-overflow-surveys-1)
-- [Frontend Rendering: SSG vs ISG vs SSR vs CSR - When to use which?](https://blog.codersalman.live/frontend-rendering-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which-1)
+- [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
+- [6 Killer Productivity Apps for Programmers](https://blog.codersalman.live/6-killer-productivity-apps-for-programmers-1)
+- [6 Killer Productivity Apps for Programmers](https://blog.codersalman.live/6-killer-productivity-apps-for-programmers-1)
+- [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
+- [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
