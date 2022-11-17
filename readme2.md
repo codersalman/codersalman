@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Write on the Boot.dev Blog](https://blog.codersalman.live/write-on-the-bootdev-blog-1)
-- [6 Killer Productivity Apps for Programmers](https://blog.codersalman.live/6-killer-productivity-apps-for-programmers-1)
-- [6 Killer Productivity Apps for Programmers](https://blog.codersalman.live/6-killer-productivity-apps-for-programmers-1)
-- [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
-- [Should You Learn Front-end or Back-end Development First?](https://blog.codersalman.live/should-you-learn-front-end-or-back-end-development-first-1)
+- [The Regular Expression &lpar;RegEx&rpar; Cheat Sheet you always wanted](https://blog.codersalman.live/the-regular-expression-regex-cheat-sheet-you-always-wanted)
+- [5 Tricks to Create an Impressive GitHub Repository 🤩🤯](https://blog.codersalman.live/5-tricks-to-create-an-impressive-github-repository)
+- [6 Cool Things Boring Old HTML Can Do 🤯](https://blog.codersalman.live/6-cool-things-boring-old-html-can-do)
+- [Frontend Rendering: SSG vs ISG vs SSR vs CSR - When to use which?](https://blog.codersalman.live/frontend-rendering-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which-1)
+- [Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes](https://blog.codersalman.live/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
