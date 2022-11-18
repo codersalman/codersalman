@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Most Simple And Clean Designer Portfolios](https://blog.codersalman.live/most-simple-and-clean-designer-portfolios-1)
 - [Open Source Changed My Life!](https://blog.codersalman.live/open-source-changed-my-life)
 - [How to Get a Software Developer Job Without Any Experience?](https://blog.codersalman.live/how-to-get-a-software-developer-job-without-any-experience)
 - [10 Ways to Fail an Interview: Avoid These Interview Mistakes](https://blog.codersalman.live/10-ways-to-fail-an-interview-avoid-these-interview-mistakes)
 - [The Regular Expression &lpar;RegEx&rpar; Cheat Sheet you always wanted](https://blog.codersalman.live/the-regular-expression-regex-cheat-sheet-you-always-wanted)
-- [5 Tricks to Create an Impressive GitHub Repository 🤩🤯](https://blog.codersalman.live/5-tricks-to-create-an-impressive-github-repository)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
