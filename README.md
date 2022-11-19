@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [If else if ladder statement in Java ||Java Tutorials || Mr.DarkTechy](https://blog.codersalman.live/if-else-if-ladder-statement-in-java-orjava-tutorials-or-mrdarktechy)
 - [A Detailed Guide to Flutter-WebRTC](https://blog.codersalman.live/a-detailed-guide-to-flutter-webrtc)
 - [What after the internship?](https://blog.codersalman.live/what-after-the-internship)
 - [Peerlist Partners With Lever 🎉](https://blog.codersalman.live/peerlist-partners-with-lever)
 - [Top 5 ways to be most productive.](https://blog.codersalman.live/top-5-ways-to-be-most-productive-1)
-- [5 Habits Of Product Designers That Piss Off Developers](https://blog.codersalman.live/5-habits-of-product-designers-that-piss-off-developers)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
