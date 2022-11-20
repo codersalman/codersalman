@@ -108,11 +108,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Configuration and Application Setup — Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php-1)
+- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
 - [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
 - [RTMP vs. WebRTC vs. HLS - A Comparison of Streaming Protocols](https://blog.codersalman.live/rtmp-vs-webrtc-vs-hls-a-comparison-of-streaming-protocols)
 - [How To Add Video Chat/Calling Feature To Your Flutter Application](https://blog.codersalman.live/how-to-add-video-chatcalling-feature-to-your-flutter-application)
-- [Newton School Transforming Ed-Tech Industry with Dyte](https://blog.codersalman.live/newton-school-transforming-ed-tech-industry-with-dyte)
-- [How to Fetch Chat History of a Dyte Session](https://blog.codersalman.live/how-to-fetch-chat-history-of-a-dyte-session)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
