@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Configuration and Application Setup — Firebase PHP](https://blog.codersalman.live/configuration-and-application-setup-firebase-php-1)
-- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
-- [The Power of Professional Networking: How to Leverage PeerList](https://blog.codersalman.live/the-power-of-professional-networking-how-to-leverage-peerlist-1)
-- [RTMP vs. WebRTC vs. HLS - A Comparison of Streaming Protocols](https://blog.codersalman.live/rtmp-vs-webrtc-vs-hls-a-comparison-of-streaming-protocols)
-- [How To Add Video Chat/Calling Feature To Your Flutter Application](https://blog.codersalman.live/how-to-add-video-chatcalling-feature-to-your-flutter-application)
+- [Introducing Dyte Webinar: Experience the Power of Stage](https://blog.codersalman.live/introducing-dyte-webinar-experience-the-power-of-stage-1)
+- [Introducing Dyte Webinar: Experience the Power of Stage](https://blog.codersalman.live/introducing-dyte-webinar-experience-the-power-of-stage)
+- [Youtube Shorts Beta is now Available for india || 🔥The biggest Short video app of Youtube](https://blog.codersalman.live/youtube-shorts-beta-is-now-available-for-india-or-the-biggest-short-video-app-of-youtube)
+- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
+- [How to Fetch Chat History of a Dyte Session](https://blog.codersalman.live/how-to-fetch-chat-history-of-a-dyte-session-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
