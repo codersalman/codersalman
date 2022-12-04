@@ -31,6 +31,9 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 ### Technologies 🧑‍💻
 
 <li>HTML, CSS & Javascript</li>
+<li>NODE JS</li>
+<li>Mongo DB</li>
+<li>Express</li> 
 <li>PHP</li> 
 <li> MySQL</li>
 <li> Firebase</li>
