@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Add Video Conferencing to Your Website in 8 Easy Steps](https://blog.codersalman.live/add-video-conferencing-to-your-website-in-8-easy-steps-1)
 - [Why Dyte Chose Flagsmith for the Feature Flagging](https://blog.codersalman.live/why-dyte-chose-flagsmith-for-the-feature-flagging-1)
 - [Why Dyte Chose Flagsmith for the Feature Flagging](https://blog.codersalman.live/why-dyte-chose-flagsmith-for-the-feature-flagging)
 - [RTMP vs. WebRTC vs. HLS - A Comparison of Streaming Protocols](https://blog.codersalman.live/rtmp-vs-webrtc-vs-hls-a-comparison-of-streaming-protocols-1)
 - [Newton School Transforming Ed-Tech Industry with Dyte](https://blog.codersalman.live/newton-school-transforming-ed-tech-industry-with-dyte-1)
-- [Peerlist Partners With Lever 🎉](https://blog.codersalman.live/peerlist-partners-with-lever-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
