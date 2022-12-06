@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [What is Cloudflare used for ?](https://blog.codersalman.live/what-is-cloudflare-used-for-1)
 - [RTMP Streaming: What is it &amp; How to Set it Up?](https://blog.codersalman.live/rtmp-streaming-what-is-it-and-how-to-set-it-up-1)
 - [Add Video Conferencing to Your Website in 8 Easy Steps](https://blog.codersalman.live/add-video-conferencing-to-your-website-in-8-easy-steps-1)
 - [Why Dyte Chose Flagsmith for the Feature Flagging](https://blog.codersalman.live/why-dyte-chose-flagsmith-for-the-feature-flagging-1)
 - [Why Dyte Chose Flagsmith for the Feature Flagging](https://blog.codersalman.live/why-dyte-chose-flagsmith-for-the-feature-flagging)
-- [RTMP vs. WebRTC vs. HLS - A Comparison of Streaming Protocols](https://blog.codersalman.live/rtmp-vs-webrtc-vs-hls-a-comparison-of-streaming-protocols-1)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
