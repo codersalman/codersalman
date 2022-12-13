@@ -111,11 +111,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [How to Schedule and Send Meeting Invites via Dyte?](https://blog.codersalman.live/how-to-schedule-and-send-meeting-invites-via-dyte-1)
-- [How to Schedule and Send Meeting Invites via Dyte?](https://blog.codersalman.live/how-to-schedule-and-send-meeting-invites-via-dyte)
-- [Where do developers hang out in 2022?](https://blog.codersalman.live/where-do-developers-hang-out-in-2022-1)
-- [What is Cloudflare used for ?](https://blog.codersalman.live/what-is-cloudflare-used-for-1)
-- [RTMP Streaming: What is it &amp; How to Set it Up?](https://blog.codersalman.live/rtmp-streaming-what-is-it-and-how-to-set-it-up-1)
+- [Post an article on LinkedIn using the LinkedIn API in Node.js](https://codersalman.hashnode.dev/post-an-article-on-linkedin-using-the-linkedin-api-in-nodejs)
+- [Why GitHub Profile Should Awesome ?](https://codersalman.hashnode.dev/why-github-profile-should-awesome)
+- [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://codersalman.hashnode.dev/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions)
+- [What is KaiOS?](https://codersalman.hashnode.dev/what-is-kaios)
+- [What is Cloudflare used for ?](https://codersalman.hashnode.dev/what-is-cloudflare-used-for)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
