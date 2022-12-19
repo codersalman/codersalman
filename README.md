@@ -111,11 +111,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-- [Facebook Payment Status Check in 2022- Facebook Payout Check New Dashboard](https://codersalman.hashnode.dev/facebook-payment-status-check-in-2022-facebook-payout-check-new-dashboard-1)
-- [Facebook Payment Status Check in 2022- Facebook Payout Check New Dashboard](https://codersalman.hashnode.dev/facebook-payment-status-check-in-2022-facebook-payout-check-new-dashboard)
 - [Post an article on LinkedIn using the LinkedIn API in Node.js](https://codersalman.hashnode.dev/post-an-article-on-linkedin-using-the-linkedin-api-in-nodejs)
 - [Why GitHub Profile Should Awesome ?](https://codersalman.hashnode.dev/why-github-profile-should-awesome)
 - [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://codersalman.hashnode.dev/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions)
+- [What is KaiOS?](https://codersalman.hashnode.dev/what-is-kaios)
+- [What is Cloudflare used for ?](https://codersalman.hashnode.dev/what-is-cloudflare-used-for)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
