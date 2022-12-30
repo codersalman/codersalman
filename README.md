@@ -123,11 +123,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [Firebase 101: An Overview of the Platform&#39;s Key Features and Services](https://www.youtube.com/watch?v=9BtPMU218hw)
 - [Introducing Codestix Programming Channel: A Place for Beginners and Experts Alike](https://www.youtube.com/watch?v=5K7jSieiq2U)
 - [Google Devfest 2022 ](https://www.youtube.com/watch?v=u_wWOf0LUxk)
 - [Image in Website ](https://www.youtube.com/watch?v=g2bmNTShT-Q)
 - [Headings HTML ](https://www.youtube.com/watch?v=YCgJBxAvboA)
-- [CodeStix :&rpar;  code until you Stuck](https://www.youtube.com/watch?v=5UlLA6DbcxQ)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/CoderSalman)
 </td>
