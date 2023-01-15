@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Your salman](https://thetechtopics.com/uncategorized/your-salman/)
 - [From Idea to Launch: My Journey Building Scattr.io](https://codersalman.hashnode.dev/from-idea-to-launch-my-journey-building-scattrio)
 - [Post an article on LinkedIn using the LinkedIn API in Node.js](https://codersalman.hashnode.dev/post-an-article-on-linkedin-using-the-linkedin-api-in-nodejs)
 - [Why GitHub Profile Should Awesome ?](https://codersalman.hashnode.dev/why-github-profile-should-awesome)
 - [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://codersalman.hashnode.dev/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions)
+- [What is KaiOS?](https://codersalman.hashnode.dev/what-is-kaios)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
