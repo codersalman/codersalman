@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
+- [Where do developers hang out in 2022?](https://thetechtopics.com/uncategorized/where-do-developers-hang-out-in-2022/)
 - [Firebase for Web: A Step-by-Step Tutorial](https://codersalman.hashnode.dev/firebase-for-web-a-step-by-step-tutorial)
 - [From Idea to Launch: My Journey Building Scattr.io](https://codersalman.hashnode.dev/from-idea-to-launch-my-journey-building-scattrio)
 - [Why GitHub Profile Should Awesome ?](https://codersalman.hashnode.dev/why-github-profile-should-awesome)
 - [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://codersalman.hashnode.dev/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions)
-- [What is KaiOS?](https://codersalman.hashnode.dev/what-is-kaios)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
