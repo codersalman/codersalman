@@ -111,11 +111,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [Adding Firebase Authentication to Your Web Application](https://codersalman.hashnode.dev/adding-firebase-authentication-to-your-web-application)
 - [Where do developers hang out in 2022?](https://thetechtopics.com/uncategorized/where-do-developers-hang-out-in-2022/)
 - [Firebase for Web: A Step-by-Step Tutorial](https://codersalman.hashnode.dev/firebase-for-web-a-step-by-step-tutorial)
 - [From Idea to Launch: My Journey Building Scattr.io](https://codersalman.hashnode.dev/from-idea-to-launch-my-journey-building-scattrio)
 - [Why GitHub Profile Should Awesome ?](https://codersalman.hashnode.dev/why-github-profile-should-awesome)
-- [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://codersalman.hashnode.dev/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://blog.codersalman.me/)
 </td>
