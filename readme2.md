@@ -1,10 +1,10 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Becoming a Better Sales Person](https://codersalman.hashnode.dev/becoming-a-better-sales-person)
-- [Guide To Decentralized Applications &lpar;Dapps&rpar;](https://codersalman.hashnode.dev/guide-to-decentralized-applications-dapps-1)
+- [Personal Branding for web Developers](https://codersalman.hashnode.dev/personal-branding-for-web-developers-1)
 - [Guide To Decentralized Applications &lpar;Dapps&rpar;](https://codersalman.hashnode.dev/guide-to-decentralized-applications-dapps)
 - [Adding Firebase Authentication to Your Web Application](https://codersalman.hashnode.dev/adding-firebase-authentication-to-your-web-application)
 - [Where do developers hang out in 2022?](https://thetechtopics.com/uncategorized/where-do-developers-hang-out-in-2022/)
+- [Firebase for Web: A Step-by-Step Tutorial](https://codersalman.hashnode.dev/firebase-for-web-a-step-by-step-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
