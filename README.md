@@ -115,7 +115,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - [Scattr Monthly Update: February 2023](https://blog.scattr.io/scattr-monthly-update-february-2023/)
 - [Scattr Pre-February Release • 2023.02](https://blog.scattr.io/scattr-january-release-2023-01/)
 - [Maximizing Visibility: The Benefits of Cross-Posting Your Blog or Article](https://blog.scattr.io/why-you-should-cross-post-article/)
-- [From Idea to Launch: My Journey Building Scattr.io](https://blog.scattr.io/from-idea-to-launch-my-journey-building-scattr-io/)
+- [Adding Firebase Authentication to Your Web Application](https://codersalman.hashnode.dev/adding-firebase-authentication-to-your-web-application)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://dev.to/codersalman/)
 </td>
