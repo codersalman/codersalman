@@ -117,7 +117,7 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - [Maximizing Visibility: The Benefits of Cross-Posting Your Blog or Article](https://blog.scattr.io/why-you-should-cross-post-article/)
 - [From Idea to Launch: My Journey Building Scattr.io](https://blog.scattr.io/from-idea-to-launch-my-journey-building-scattr-io/)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://blog.codersalman.me/)
+➡️ [more blog posts...](https://dev.to/codersalman/)
 </td>
 <td valign="top" width="50%">
 
