@@ -14,9 +14,9 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           commit_message: "Blog Posts Updated"
-          committer_username:  "blog-bot"
+          committer_username:  "Blogs "
           readme_path: 'README.md, readme2.md'
-          committer_email: "thetechtopics@gmail.com"
+          committer_email: "salman@scattr.io"
           user_agent: "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
           max_post_count: "5"
           feed_list: "https://blog.scattr.io/rss,https://medium.com/@codersalman/feed"
