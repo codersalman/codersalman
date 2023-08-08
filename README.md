@@ -1,115 +1,132 @@
-![ THE TECH TOPICS YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjo5ZP81jG-9rlItrxNSPcQ?style=social) 
-[![Linkedin: Salman Shaikh](https://img.shields.io/badge/-Salman%20Shaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devsalmanshaikh/)](https://www.linkedin.com/in/devsalmanshaikh/)
-[![Twitter: Salman Shaikh ](https://img.shields.io/twitter/follow/codersalman_?style=social)](https://twitter.com/codersalman_)
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/codersalman)](https://peerlist.io/codersalman)
-![Visitors](https://camo.githubusercontent.com/7517756d8fc02fa5812a5900408396945b60f068eb4c8170ab3eeab9eb03fb91/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d636f64657273616c6d616e266c6566745f636f6c6f723d677261792672696768745f636f6c6f723d626c7565)
-[![Medium Badge](https://img.shields.io/badge/-@Codersalman-black?style=flat-square&labelColor=000000&logo=hashnode&link=https://hashnode.com/@Codersalman)](https://hashnode.com/@Codersalman)
-<img width="1327" alt="Screenshot 2022-07-06 at 12 05 18 PM" src="https://user-images.githubusercontent.com/83803180/177484698-1fec9a31-167e-4bf9-ae3e-a10d56e7503e.png">
+# 🚀 Codersalman's Cosmic Odyssey
 
+🌌 Greetings, Earthlings and fellow space cadets! I am Codersalman, a celestial wanderer weaving constellations of code, exploring digital nebulae, and crafting cosmic connections.
 
+## 🛸 Embark on a Celestial Voyage
 
-I develop Apps & Softwears, build technical communities, opensource projects, create tech content and love meeting new people & communities!
+🪐 Inhabiting the intersection of technology and imagination, I am a creator of Apps & Softwears, a builder of technical communities, and a curator of open-source marvels.
 
-
-[![Codersalman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codersalman&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/codersalman/github-readme-stats)
-
-
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/salmanshaikh) and add to my knowledge! 
-
-<a href="https://www.buymeacoffee.com/salmanshaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
-<hr /> 
-
-- 🌱 I’m currently learning Computer Science  & Flutter 
-- 👯 I’m looking to collaborate on opensource and educational Projects 
-- 💬 Ask me about Web & App Dev , Opensource , Technology
-- 📫 How to reach me: Email , Instagram , Twitter / salman@scattr.io
-- 😄 Pronouns: HE
-- ⚡ Fun fact: Nothing 😄 
-<hr />
-<table align="center"><tr ><td valign="top" width="20%">
-
-### Technologies 🧑‍💻
-
-<li>HTML, CSS & Javascript</li>
-<li>NODE JS</li>
-<li>Mongo DB</li>
-<li>Express</li> 
-<li>PHP</li> 
-<li> MySQL</li>
-<li> Firebase</li>
-<li>React</li>  
-<li> KaiOS (React) HTML</li>  
-
-
-</td>
-
-<td valign="top" width="20%">
-
-### Tools 🛠💻
-<li>ATOM (Github) </li>
-<li>VS CODE / Sublime Text</li> 
-<li>Jetbrains PHP STORM / Webstorm</li>
-<li>Postman</li>
-<li> Firebase CLI</li>
-<li>Android Studio</li>  
-<li>Bootstrap  Studio</li>  
-<li> KaiOSart / WEBIDE Moz</li>  
-
-</td>
-<td valign="top" width="20%">
-
-### My Latest Badges & Achivements 🎉 
-
-<p align="center">
-<li><span class="hidden capitalize lg:inline">Hacktoberfest-2021</span>
- </li><li><span class="hidden capitalize lg:inline">Cloudflare Developer Challenge Winner 2021</span></li>
-  </li><li><span class="hidden capitalize lg:inline">Campus SuperHero 🦸🏻‍♂️ at Coding Blocks</span></li>
-</p>
-</td>
-<tr>
-</table>
-
-### Events
-
-<img width="625" alt="Screenshot 2022-06-26 at 11 57 41 AM" src="https://user-images.githubusercontent.com/83803180/175802472-de896121-2b66-4fff-86a4-34b757eb23b8.png">
-<!--
-### Tools &amp; technologies
-
-<p align="center">
-<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/dart.svg" alt="" ><span class="hidden capitalize lg:inline">Dart</span>
-<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/arduino.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Arduino</span>
-<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/html.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">HTML</span>
-<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/figma.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Figma</span>
-<img  align="center"src="https://peerlist-media.s3.amazonaws.com/tool_icons/php.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">PHP</span>
-<img  align="center"src="https://peerlist-media.s3.amazonaws.com/tool_icons/firebase.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Firebase</span>
-<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/google_cloud.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Google Cloud</span>
-<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/flutter.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">Flutter</span>
-<img align="center" src="https://peerlist-media.s3.amazonaws.com/tool_icons/css.svg" alt="" class="mr-2 h-5"><span class="hidden capitalize lg:inline">CSS</span>
-
-</p>
--->
+🚀 Join me on a journey of discovery and innovation as we traverse the binary galaxies and unlock the secrets of the universe.
 
 <hr>
+
+## 🌟 Unveiling GitHub Galactic Wonders aka 📡 Control Room 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codersalman&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codersalman&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+<br>
+
+
+Should you find my cosmic endeavors intriguing, consider fueling my quest for knowledge by contributing to my cosmic library:
+
+[Buy Me A Book](link_to_support_page)
+
+<hr>
+
+## 🪐 Cosmic Learning Trajectory
+
+🌱 In my orbit, I am currently expanding my knowledge of Computer Science & mastering the enigmatic Flutter constellation.
+
+👯 Seeking fellow explorers to collaborate on missions involving open-source and educational projects.
+
+💬 Need guidance on Web & App Dev, the arcane arts of Open Source, or the marvels of Technology? Transmit your signal to salman@scattr.io or find me on Instagram and Twitter!
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/devsalmanshaikh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/codersalman_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16240219/salman-shaikh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://youtube.com/codersalman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://behance.net/codersalman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://dribbble.com/codersalman?ref=peerlist" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://dev.to/codersalman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
+  </a>
+  <a href="https://medium.com/@codersalman?ref=github_readme" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
+<hr>
+
+## 🎛️ Mission Control
+
 <p align="center">
   <img src="https://github.com/codersalman/codersalman/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <hr>
 
-### My Latest Badges & Achivements 🎉 
+## 🌌 Stellar Toolbox
+<table align="center"><tr ><td valign="top" width="20%">
 
-<p align="center">
-<img align="center"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt=" "width="70" ><span class="hidden capitalize lg:inline">Hacktoberfest-2021</span>
-  <img align="center"  src="https://user-images.githubusercontent.com/83803180/150681989-bbd7b24f-d72a-4299-a571-e221d0059c36.png" alt=" "width="120" ><span class="hidden capitalize lg:inline">Cloudflare Developer Challenge Winner 2021</span>
-<img align="center"  src="https://user-images.githubusercontent.com/83803180/218096122-92167e06-edd6-4da7-9a8d-dc931295c2a8.png" alt=" "width="120" >
-</p>
+In the interstellar expanse of technology, my cosmic toolset includes:<br>
+- 🪐 Crafting with HTML, CSS & Javascript
+- 🚀 Navigating with NODE JS
+- 🌌 Storing data in Mongo DB
+- 💫 Speeding through with Express
+- 🌠 Conjuring with PHP
+- ⚡ Oracles of MySQL
+- 🔥 Harnessing the power of Firebase
+- 💥 Channeling the energy of React
+- 🛰️ Shaping the realms of KaiOS (React) HTML
+
+</td>
+<td valign="top" width="20%">
+As a cosmic artisan, I wield a diverse array of tools:
+
+<br>
+<br>
+
+🛠💻 Instruments of the Cosmos
 
 
+- 🌟 ATOM (GitHub Edition)
+- ⚡ VS CODE / Sublime Text
+- 🌠 Jetbrains PHP STORM / Webstorm
+- 🪐 Postman
+- 💫 Firebase CLI
+- 🚀 Android Studio
+- 🛸 Bootstrap Studio
+- 🌌 KaiOSart / WEBIDE Moz
+</td>
+</table>
+
+### 🔧 Toolbox Shortcut
+ 
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <hr>
-<table align="center"><tr ><td valign="top" width="50%">
 
-### My Latest Blog Posts 🌱
+## 🌟 Cosmic Accolades
+
+Adorning my spacesuit are badges of cosmic achievement:
+
+- 🎉 Hacker of the Stars - Hacktoberfest 2021
+- 🏆 Champion of the Code Cloud - Cloudflare Developer Challenge Winner 2021
+- 🦸🏻‍♂️ Defender of the Digital Domain - Campus SuperHero at Coding Blocks Academy
+
+## 🚀 Chronicles of the Cosmos
+
+Embark on a cosmic reading adventure through my nebulous blog posts:
+
 <!-- BLOG-POST-LIST:START -->
 - [Scattr 🏆 #1 Project of the month](https://blog.scattr.io/scattr-1-project-of-the-month-peerlist/)
 - [Scattr Monthly Update: February 2023](https://blog.scattr.io/scattr-monthly-update-february-2023/)
@@ -118,10 +135,11 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - [Adding Firebase Authentication to Your Web Application](https://codersalman.hashnode.dev/adding-firebase-authentication-to-your-web-application)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://dev.to/codersalman/)
-</td>
-<td valign="top" width="50%">
 
-### My Latest YouTube Videos 🌱
+## 🎥 Cosmic Creations on the Holoscreen
+
+Embark on visual cosmic journeys through my multimedia creations:
+
 <!-- YOUTUBE:START -->
 - [[SELECTED] GDSC LEAD APPLICATION 2023 ](https://www.youtube.com/watch?v=jO3NjblPyRU)
 - [Firebase 101: An Overview of the Platform&#39;s Key Features and Services](https://www.youtube.com/watch?v=9BtPMU218hw)
@@ -129,28 +147,16 @@ I develop Apps & Softwears, build technical communities, opensource projects, cr
 - [Google Devfest 2022 ](https://www.youtube.com/watch?v=u_wWOf0LUxk)
 - [Image in Website ](https://www.youtube.com/watch?v=g2bmNTShT-Q)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/CoderSalman)
-</td>
-  
+➡️ [... and more cosmic chronicles await your exploration.
+.](https://www.youtube.com/c/CoderSalman)
 
+## 🚀 Final Transmission
 
-  
-<!-- ### Hi there 👋, my name is Salman 
-#### I am a Computer Science Student
-I am Salman, a Computer Science Student a part-time web & app developer. I have rich experience in android apps, website design, and building and customization, also I am good at SEO Keyword Research & WordPress Site Designing also I am a Robotics,IoT & Embedded System Developer 
+As we traverse the cosmic currents of code and creativity, remember:
 
-Skills:  JS / HTML / CSS/ PHP / PYTHON / C++ / Dart
+> "In the symphony of bits and bytes, we are the composers of the digital cosmos, shaping the galaxies of innovation."
 
-- 🌱 I’m currently learning Computer Science  & Flutter 
-- 👯 I’m looking to collaborate on Education Projects 
-- 💬 Ask me about Web & App Development ,  
-- 📫 How to reach me: Email , Instagram , Twitter / meet@codersalman.me
-- 😄 Pronouns: HE
+Keep coding, keep dreaming, and keep venturing into the unknown! 🌌🚀
 
-- ⚡ Fun fact: Nothing 😄 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codersalman)
--->
-
-
+Pronouns: HE 🌠
 
