@@ -36,9 +36,13 @@ Should you find my cosmic endeavors intriguing, consider fueling my quest for kn
 <br clear="both">
 
 <div align="center">
+   <a href="https://peerlist.io/codersalman" target="_blank">
+    <img src="https://github-readme-badge.peerlist.io/api/codersalman?style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/devsalmanshaikh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+  
   <a href="https://twitter.com/codersalman_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
