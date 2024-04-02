@@ -1,9 +1,9 @@
 ### Latest posts of 
 <!-- BLOG-POST-LIST:START -->
-- [Scattr 🏆 #1 Project of the month](http://15.207.107.45/scattr-1-project-of-the-month-peerlist/)
-- [Scattr Monthly Update: February 2023](http://15.207.107.45/scattr-monthly-update-february-2023/)
-- [Scattr Pre-February Release • 2023.02](http://15.207.107.45/scattr-january-release-2023-01/)
-- [Maximizing Visibility: The Benefits of Cross-Posting Your Blog or Article](http://15.207.107.45/why-you-should-cross-post-article/)
+- [Scattr 🏆 #1 Project of the month](http://blog.scattr.io/scattr-1-project-of-the-month-peerlist/)
+- [Scattr Monthly Update: February 2023](http://blog.scattr.io/scattr-monthly-update-february-2023/)
+- [Scattr Pre-February Release • 2023.02](http://blog.scattr.io/scattr-january-release-2023-01/)
+- [Maximizing Visibility: The Benefits of Cross-Posting Your Blog or Article](http://blog.scattr.io/why-you-should-cross-post-article/)
 - [Adding Firebase Authentication to Your Web Application](https://codersalman.hashnode.dev/adding-firebase-authentication-to-your-web-application)
 <!-- BLOG-POST-LIST:END -->
 
