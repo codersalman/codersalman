@@ -4,7 +4,7 @@
 - [Scattr Monthly Update: February 2023](http://blog.scattr.io/scattr-monthly-update-february-2023/)
 - [Scattr Pre-February Release • 2023.02](http://blog.scattr.io/scattr-january-release-2023-01/)
 - [Maximizing Visibility: The Benefits of Cross-Posting Your Blog or Article](http://blog.scattr.io/why-you-should-cross-post-article/)
-- [From Idea to Launch: My Journey Building Scattr.io](http://blog.scattr.io/from-idea-to-launch-my-journey-building-scattr-io/)
+- [Adding Firebase Authentication to Your Web Application](https://codersalman.hashnode.dev/adding-firebase-authentication-to-your-web-application)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
