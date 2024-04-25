@@ -132,11 +132,11 @@ Adorning my spacesuit are badges of cosmic achievement:
 Embark on a cosmic reading adventure through my nebulous blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scattr 🏆 #1 Project of the month](http://blog.scattr.io/scattr-1-project-of-the-month-peerlist/)
+- [Scattr Monthly Update: February 2023](http://blog.scattr.io/scattr-monthly-update-february-2023/)
+- [Scattr Pre-February Release • 2023.02](http://blog.scattr.io/scattr-january-release-2023-01/)
+- [Maximizing Visibility: The Benefits of Cross-Posting Your Blog or Article](http://blog.scattr.io/why-you-should-cross-post-article/)
 - [Adding Firebase Authentication to Your Web Application](https://codersalman.hashnode.dev/adding-firebase-authentication-to-your-web-application)
-- [Firebase for Web: A Step-by-Step Tutorial](https://codersalman.hashnode.dev/firebase-for-web-a-step-by-step-tutorial)
-- [From Idea to Launch: My Journey Building Scattr.io](https://codersalman.hashnode.dev/from-idea-to-launch-my-journey-building-scattrio)
-- [Why GitHub Profile Should Awesome ?](https://codersalman.hashnode.dev/why-github-profile-should-awesome)
-- [How To Install Github Desktop In Ubuntu 20.04 Linux Distributions](https://codersalman.hashnode.dev/how-to-install-github-desktop-in-ubuntu-2004-linux-distributions)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://dev.to/codersalman/)
 
