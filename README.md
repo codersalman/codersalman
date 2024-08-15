@@ -145,11 +145,11 @@ Embark on a cosmic reading adventure through my nebulous blog posts:
 Embark on visual cosmic journeys through my multimedia creations:
 
 <!-- YOUTUBE:START -->
-- [Decoding HTML: A Beginner&#39;s Guide to Tags, Syntax, and More! ](https://www.youtube.com/watch?v=j3Eun4yETMc)
-- [Fullstack Web Development Simplified ](https://www.youtube.com/watch?v=K1x6WS6KSd4)
-- [Firebase 101: An Overview of the Platform&#39;s Key Features and Services](https://www.youtube.com/watch?v=9BtPMU218hw)
-- [Introducing Codestix Programming Channel: A Place for Beginners and Experts Alike](https://www.youtube.com/watch?v=5K7jSieiq2U)
 - [Google Devfest 2022 ](https://www.youtube.com/watch?v=u_wWOf0LUxk)
+- [Image in Website ](https://www.youtube.com/watch?v=g2bmNTShT-Q)
+- [Headings HTML ](https://www.youtube.com/watch?v=YCgJBxAvboA)
+- [CodeStix :&rpar;  code until you Stuck](https://www.youtube.com/watch?v=5UlLA6DbcxQ)
+- [Hacktoberfest Swags 🥳🎉📦 Unboxing 2021#hacktoberfest #shorts](https://www.youtube.com/watch?v=qo7DNpeapMI)
 <!-- YOUTUBE:END -->
 ➡️ [... and more cosmic chronicles await your exploration.
 .](https://www.youtube.com/c/CoderSalman)
